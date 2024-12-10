@@ -1,2 +1,2 @@
 # coding-factory-bootcamp
-Coding Factory 7 Bootcamp (Java)
+This is my Coding Factory 7 Bootcamp (Java)
